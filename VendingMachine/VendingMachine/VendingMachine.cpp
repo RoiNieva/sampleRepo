@@ -19,8 +19,7 @@ double Item::getPrice() const {
     return price;
 }
 
-//nice
-//niceone
+
 BottledWater::BottledWater()
     : Item("Bottled Water", "Refreshing water in a bottle", 10.0) {
 
