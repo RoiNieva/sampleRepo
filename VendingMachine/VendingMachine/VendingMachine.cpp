@@ -19,7 +19,7 @@ double Item::getPrice() const {
     return price;
 }
 
-//commeent
+//comment
 
 
 
